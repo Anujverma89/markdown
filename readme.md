@@ -10,7 +10,14 @@ ___
 
 
 
-**Bold** 
+**Writing Bold Text** 
 ```md
     **BOLD**
 ```
+
+*Writing Italic text*
+```md
+    *italic*
+```
+
+*'Writing bold & Italic*
