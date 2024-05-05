@@ -1,12 +1,14 @@
 # Markdown CheatSheet
 
+[![alt](https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png)](https://www.google.com)
+
 # Heading H1 
 ## Heading H2
 ### Heading h3
 #### Heading h4
 ##### Heading h5
 ##### Heading h6
-___
+________________
 
 
 
@@ -61,8 +63,19 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 
 ### Images
-[how is this ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fghost.org%2Fchangelog%2Fmarkdown%2F&psig=AOvVaw1S2KLUNvgMr2ooIYxyYLfG&ust=1714966457695000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCB8oXK9YUDFQAAAAAdAAAAABAK)
+[![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")](https://www.google.com)
+
+
 
 ### Links
-# [Idea](https://www.googel.com)
+### [Idea Link](https://www.googel.com)
 
+
+
+***Tables***
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
